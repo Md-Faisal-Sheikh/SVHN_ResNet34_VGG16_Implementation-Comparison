@@ -43,17 +43,6 @@ Dataset characteristics:
 | Test Images       | ~26,000      |
 
 SVHN is more challenging than datasets like MNIST because the digits appear in **natural images with background noise and varying lighting conditions**.
-
----
-
-# Sample Images from SVHN
-
-You may include example images here.
-
-```
-images/svhn_samples.png
-```
-
 ---
 
 # Model Architectures
@@ -89,12 +78,6 @@ Global Average Pooling
 Fully Connected Layer
         │
 Output (10 Classes)
-```
-
-You may include an architecture diagram:
-
-```
-images/resnet34_architecture.png
 ```
 ---
 
@@ -220,6 +203,4 @@ Possible extensions for this project:
 # Author
 
 Md. Faisal Sheikh
-SVHN Digit Classification using ResNet34 and VGG16
-
 ---
