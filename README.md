@@ -1,12 +1,8 @@
----
-
 # SVHN Digit Classification using ResNet34 and VGG16
 
 This project implements and compares two convolutional neural network architectures, **ResNet34** and **VGG16**, on the **Street View House Numbers (SVHN)** dataset. The goal is to analyze how different deep learning architectures perform on real-world digit recognition tasks.
 
 The project includes the full deep learning pipeline: **data preprocessing, model implementation, training, evaluation, and performance comparison**.
-
----
 
 The notebook contains the full implementation of:
 
