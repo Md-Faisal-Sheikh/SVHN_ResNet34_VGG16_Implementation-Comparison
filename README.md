@@ -8,13 +8,6 @@ The project includes the full deep learning pipeline: **data preprocessing, mode
 
 ---
 
-# Repository Structure
-
-```
-SVHN_ResNet34_VGG16_Implementation_Comparison.ipynb
-README.md
-```
-
 The notebook contains the full implementation of:
 
 * SVHN dataset loading and preprocessing
